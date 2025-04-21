@@ -6,8 +6,8 @@ from vertexai.language_models import TextEmbeddingModel, TextEmbeddingInput
 from vertexai.generative_models import GenerativeModel
 
 # Initialize Vertex AI
-PROJECT_ID = "ai-experimentation-428115"
-REGION = "us-central1"
+PROJECT_ID = "<your-project-id>"
+REGION = "<your-region>"
 vertexai.init(project=PROJECT_ID, location=REGION)
 
 # Constants
