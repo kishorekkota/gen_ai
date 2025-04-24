@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+doctr[torch]
+transformers
+torch
+regex
+python-doctr
+torchvision
+accelerate
